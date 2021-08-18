@@ -15,7 +15,7 @@
 		</li>
 		<div class="commerceAction">
 			<li>
-				<a class="cart" href={$url('/Cart')}>
+				<a class="cart" href={$url('/cart')}>
 					<CartItem />
 				</a>
 			</li>
